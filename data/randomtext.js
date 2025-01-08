@@ -1,7 +1,8 @@
   const textSelect= [
-    'Text One',
-    'Text Two',
-    'Text Three',
+    'appakling',
+    'LOVEWAREZ',
+    'SixVertical',
+    'RealRhythmatic',
 ];
  
 function getRandomText() {

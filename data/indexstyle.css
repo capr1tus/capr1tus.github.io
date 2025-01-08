@@ -4,17 +4,24 @@ body {
 	background-color: #232136;
 }
 
+a {
+	color: #c4a7e7;
+	font-family: 'Cousine', monospace;
+  	font-size: 18px;
+}
+
+
 h1 {
 	color: #e0def4;
 	font-family: 'Cousine', monospace;
-  	font-size: 34px;
+  	font-size: 42px;
   	font-weight: bold;
 }
 
 h2, h3 {
 	color: #e0def4;
 	font-family: 'Cousine', monospace;
-  	font-size: 22px;
+  	font-size: 30px;
   	font-weight: bold;
 }
 
