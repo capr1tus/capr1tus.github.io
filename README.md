@@ -1,3 +1,3 @@
-# Capr1tus
+# carp1tus
 ## the quality over quantity gamewarez group
 *website currently in development, sorry :)*
