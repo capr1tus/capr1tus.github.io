@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Cousine:wght@700&display=swap');
+
+body {
+	background-color: #232136;
+}
+
+h1 {
+	color: #e0def4;
+	font-family: 'Cousine', monospace;
+  	font-size: 34px;
+  	font-weight: bold;
+}
+
+h2, h3 {
+	color: #e0def4;
+	font-family: 'Cousine', monospace;
+  	font-size: 22px;
+  	font-weight: bold;
+}
+
+p {
+	color: #e0def4;
+	font-family: 'Cousine', monospace;
+  	font-size: 18px;
+  	font-weight: normal;
+}
+
+b {
+	color: #e0def4;
+	font-family: 'Cousine', monospace;
+  	font-size: 18px;
+  	font-weight: bold;
+}
+
+.center {
+	text-align: center;
+}
+
+.comment {
+	color: #908caa;
+	font-family: 'Cousine', monospace;
+	font-size: 12px;
+}
+
+.error {
+	color: #eb6f92;
+	font-family: 'Cousine', monospace;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.good {
+	color: #3e8fb0;
+	font-family: 'Cousine', monospace;
+	font-size: 18px;
+	font-weight: bold;
+}
+
